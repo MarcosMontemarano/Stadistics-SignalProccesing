@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Apr  2 18:21:31 2022
-
-@author: marco
+Construcción de señal por broadcasting y transformada rápida de Fourier
 """
 # =============================================================================
 # Importar librerías

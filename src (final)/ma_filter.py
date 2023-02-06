@@ -6,7 +6,7 @@ Created on Fri Apr 15 18:08:46 2022
 """
 
 import numpy as np
-from ejercicio1 import A
+from broadcasting_rfft import A
 import matplotlib.pyplot as plt
 import scipy as sp
 from scipy.fftpack import fft

@@ -9,8 +9,8 @@ import numpy as np
 from Mediamovild import mediamovild 
 import scipy as sp
 from scipy import signal
-from ejercicio5 import xfd_A , M
-from ejercicio1 import A
+from ma_filter import xfd_A , M
+from broadcasting_rfft import A
 import matplotlib.pyplot as plt
 
 # =============================================================================

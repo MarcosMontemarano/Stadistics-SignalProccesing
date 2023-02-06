@@ -6,8 +6,8 @@ Created on Sat May 14 16:24:59 2022
 """
 
 import numpy as np
-from ejercicio5 import M
-from ejercicio1 import A
+from ma_filter import M
+from broadcasting_rfft import A
 import matplotlib.pyplot as plt
 
 # =============================================================================

@@ -6,7 +6,7 @@ Created on Wed Apr 13 17:07:36 2022
 """
 
 import numpy as np
-from ejercicio1 import A
+from broadcasting_rfft import A
 from Desvio_estandar import de
 import matplotlib.pyplot as plt
 

@@ -7,7 +7,7 @@ Created on Sat May 14 17:38:28 2022
 
 import soundfile as sf
 import numpy as np
-from ejercicio1 import A
+from broadcasting_rfft import A
 import matplotlib.pyplot as plt
 from scipy.signal import fftconvolve
 from conv_circular import circular_convolve
